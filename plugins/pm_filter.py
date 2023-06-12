@@ -1487,7 +1487,7 @@ async def auto_filter(client, msg, spoll=False):
             )
 
     btn.insert(0, [
-        InlineKeyboardButton("! Check How to Download !", url="https://t.me/TG_UPDATES1/313")
+        InlineKeyboardButton("⭕ 𝐂𝐇𝐄𝐂𝐊 𝐇𝐎𝐖 𝐓𝐎 𝐃𝐎𝐖𝐍𝐋𝐎𝐀𝐃 ⭕", url="https://t.me/TG_UPDATES1/342")
     ])
 
     btn.insert(0, [
