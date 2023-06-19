@@ -1,7 +1,7 @@
 class script(object):
     START_TXT = """<b>Hᴇʟʟᴏ {},
     
-MMʏ Nᴀᴍᴇ Is <a href=https://t.me/{}>{}</a>,
+Mʏ Nᴀᴍᴇ Is <a href=https://t.me/{}>{}</a>,
 
 💫 I AM POWERFUL AUTO-FILTER BOt,
 
@@ -13,7 +13,7 @@ MMʏ Nᴀᴍᴇ Is <a href=https://t.me/{}>{}</a>,
 Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
 
     ABOUT_TXT = """<b>✯ Mʏ Nᴀᴍᴇ: {}
-✯ Cʀᴇᴀᴛᴏʀ: <a href='https://t.me/KUSHALHK'>⚜️ 𝗖𝗥𝗘𝗔𝗧𝗢𝗥 ⚜️</a>
+✯ Cʀᴇᴀᴛᴏʀ: <a href='https://t.me/Anmol03y'>⚜️ 𝗖𝗥𝗘𝗔𝗧𝗢𝗥 ⚜️</a>
 ✯ Lɪʙʀᴀʀʏ: <a href='https://docs.pyrogram.org/'>Pʏʀᴏɢʀᴀᴍ</a>
 ✯ Lᴀɴɢᴜᴀɢᴇ: <a href='https://www.python.org/download/releases/3.0/'>Pʏᴛʜᴏɴ 3</a>
 ✯ DᴀᴛᴀBᴀsᴇ: <a href='https://www.mongodb.com/'>MᴏɴɢᴏDB</a>
@@ -22,7 +22,7 @@ Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
 
     SOURCE_TXT = """<b>ɴᴏᴛᴇ:
 - ᴛʜɪꜱ ʙᴏᴛ ɪꜱ ᴀ Private ꜱᴏᴜʀᴄᴇ ᴘʀᴏᴊᴇᴄᴛ.
-- For Premium - <a href="https://t.me/KUSHALHK">ʜᴇʀᴇ</a>
+- For Premium - <a href="https://t.me/Anmol03y">ʜᴇʀᴇ</a>
 Dᴇᴠᴇʟᴏᴘᴇʀ:
 - <a href="https://t.me/KUSHALHK">𝘽𝙊𝙏 𝘿𝙀𝙑𝙀𝙇𝙊𝙋𝙀𝙍</a></b>"""
 
@@ -170,9 +170,9 @@ Nᴀᴍᴇ - {}"""
     
 • ꜰᴜʟʟ ɴᴀᴍᴇ : DEVELOPER
 
-• ᴜꜱᴇʀɴᴀᴍᴇ : @KUSHALHK
+• ᴜꜱᴇʀɴᴀᴍᴇ : @Anmol03y
 
-• ᴘᴇʀᴍᴀɴᴇɴᴛ ᴅᴍ ʟɪɴᴋ : <a href='t.me/KUSHALHK'>𝘽𝙊𝙏 𝘿𝙀𝙑𝙀𝙇𝙊𝙋𝙀𝙍</a></b>"""
+• ᴘᴇʀᴍᴀɴᴇɴᴛ ᴅᴍ ʟɪɴᴋ : <a href='t.me/Anmol03y'>BOT OWNER</a></b>"""
 
     REQINFO = """
 ⚠ ɪɴꜰᴏʀᴍᴀᴛɪᴏɴ ⚠
@@ -216,9 +216,9 @@ Nᴀᴍᴇ - {}"""
 <b>📂 Fɪʟᴇ ɴᴀᴍᴇ : </b> <code>{file_name}</code>
 
 <b>
-▫️Movies Group : @movies_hub_official1
+▫️Movies Group : @Dark_Anmol_Request
 
-▫️Support ᴄʜᴀɴɴᴇʟ : @TG_LINKS_CHANNEL</b>"""
+▫️Support ᴄʜᴀɴɴᴇʟ : @Dark_Anmol_03</b>"""
 
     IMDB_TEMPLATE_TXT = """
 <b>Query: {query}
